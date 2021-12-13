@@ -1,0 +1,3 @@
+[submodule "xero-oauth-blazor"]
+	path = xero-oauth-blazor
+	url = git@github.com:mason-chase/xero-netstandard-oauth2-blazor-pkce.git
