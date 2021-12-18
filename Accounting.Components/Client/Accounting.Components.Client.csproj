@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Accounting.GeneralComponents\Accounting.GeneralComponents.csproj" />
     <ProjectReference Include="..\Shared\Accounting.Components.Shared.csproj" />
   </ItemGroup>
 
